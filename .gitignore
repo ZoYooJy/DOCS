@@ -1,18 +1,9 @@
-# Build and Release Folders
-bin-debug/
-bin-release/
-[Oo]bj/
-[Bb]in/
+.DS_Store
 
-# Other files and folders
-.settings/
+/GNSS 与惯性及多传感器组合导航系统原理 (第二版)/Appendices
+/GNSS 与惯性及多传感器组合导航系统原理 (第二版)/Examples
+/GNSS 与惯性及多传感器组合导航系统原理 (第二版)/MATLAB
+/GNSS 与惯性及多传感器组合导航系统原理 (第二版)/Menu_files
+/GNSS 与惯性及多传感器组合导航系统原理 (第二版)/Other Documents
 
-# Executables
-*.swf
-*.air
-*.ipa
-*.apk
-
-# Project files, i.e. `.project`, `.actionScriptProperties` and `.flexProperties`
-# should NOT be excluded as they contain compiler settings and other important
-# information for Eclipse / Flash Builder.
+Menu.htm
